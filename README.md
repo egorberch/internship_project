@@ -15,15 +15,15 @@
 ```text
 internship_project/
 ├── InternshipApp/
-│   ├── Migrations/               — SQL-скрипты миграций
-│   ├── Models/                   — C#-модели для БД
-│   ├── Program.cs                — Точка входа в приложение
-│   └── InternshipApp.csproj      — Файл проекта
-├── internship_project.sln        — Файл решения (Solution) для Visual Studio/Rider
-├── .env_example                  — Пример конфигурационного файла
-├── .gitignore                    — Исключения для Git
-├── README.md                     — Документация (этот файл)
-└── задание.md                    — Исходное задание
+│   ├── Migrations/
+│   ├── Models/
+│   ├── Program.cs
+│   └── InternshipApp.csproj
+├── internship_project.sln
+├── .env_example
+├── .gitignore
+├── .gitattributes
+└── README.md
 ```
 
 ## Инструкция по запуску
